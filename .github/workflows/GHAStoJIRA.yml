@@ -15,4 +15,3 @@ jobs:
           JIRA_USER: ryanslater2@kpmg.com
           JIRA_PROJECT: GBT
           JIRA_ISSUE_TYPE: Bug
-          JIRA_WATCHERS: kintsang@kpmg.com
