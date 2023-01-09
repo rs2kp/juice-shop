@@ -16,5 +16,5 @@ jobs:
           JIRA_HOST: https://rs2kp.atlassian.net
           JIRA_USER: ryanslater2@kpmg.com
           JIRA_PROJECT: GT
-          JIRA_ISSUE_TYPE: Task
+          JIRA_ISSUE_TYPE: Bug
           JIRA_WATCHERS: kintsang@kpmg.com
